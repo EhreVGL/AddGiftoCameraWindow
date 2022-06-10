@@ -12,7 +12,7 @@ Gif uzantılı görsel gruplarını istenilen şekilde ve konumda canlı görün
 
 0. [Herkese Selamlar](#herkese-selamlar)
 1. [Uygulama Hakkında](#uygulama-hakkında)
-2. [Yüklenmesi gerek kütüphaneler](#yuklenmesi-gereken-kutuphaneler)
+2. [Yüklenmesi Gereken Kütüphaneler](#yuklenmesi-gereken-kutuphaneler)
 3. [Youtube Linki](#youtube-linki)
 
 ## Uygulama Hakkında
